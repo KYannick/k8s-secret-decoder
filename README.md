@@ -1,0 +1,1 @@
+simple go app to view contents of k8s secrets
